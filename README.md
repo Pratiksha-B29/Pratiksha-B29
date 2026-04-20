@@ -24,9 +24,9 @@ I specialize in turning massive, complex datasets into clear business stories. M
 ---
 
 ### 🧪 Key Projects & Analytics Experience
-* **PG-DBDA Capstone Project:[Predicting Financial Infrastructure Load and Spending Patterns](./https://github.com/Pratiksha-B29/Predicting-Financial-Infrastructure-Load-and-Spending-Patterns)**: Performed exploratory data analysis (EDA) and built a predictive model on a  25M dataset using **PySpark**.
-* **[AtliQ Hardware 360 Business Insights](./https://github.com/Pratiksha-B29/Business_Insights-360)**: Developed a multi-departmental Power BI dashboard (Finance, Sales, Marketing, Supply Chain) to drive data-driven global expansion and mitigate market risks.
-* **[App Recommendation for App Store and Google Play](./https://github.com/Pratiksha-B29/Python-Project-App-Recommendation-for-App-Store-and-Google-Play)**: This project aims to identify profitable mobile app profiles for the App Store and Google Play markets. 
+* **PG-DBDA Capstone Project:[Predicting Financial Infrastructure Load and Spending Patterns](https://github.com/Pratiksha-B29/Predicting-Financial-Infrastructure-Load-and-Spending-Patterns)**: Performed exploratory data analysis (EDA) and built a predictive model on a  25M dataset using **PySpark**.
+* **[AtliQ Hardware 360 Business Insights](https://github.com/Pratiksha-B29/Business_Insights-360)**: Developed a multi-departmental Power BI dashboard (Finance, Sales, Marketing, Supply Chain) to drive data-driven global expansion and mitigate market risks.
+* **[App Recommendation for App Store and Google Play](https://github.com/Pratiksha-B29/Python-Project-App-Recommendation-for-App-Store-and-Google-Play)**: This project aims to identify profitable mobile app profiles for the App Store and Google Play markets. 
 
 ---
 
